@@ -6,7 +6,7 @@ Homepage:       http://www.haskell.org/haskellwiki/GroteTrap
 
 Author:         Jeroen Leeuwestein, Martijn van Steenbergen
 Maintainer:     martijn@van.steenbergen.nl
-Copyright:      Copyright (c) 2007-2008 Jeroen Leeuwestein and Martijn van Steenbergen
+Copyright:      Copyright (c) 2007-2015 Jeroen Leeuwestein and Martijn van Steenbergen
 
 Cabal-Version:  >= 1.6
 License:        BSD3
