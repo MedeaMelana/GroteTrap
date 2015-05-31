@@ -26,12 +26,13 @@ Library
                     mtl < 2.3,
                     syb < 0.5
   Exposed-Modules:  Language.GroteTrap
-                    Language.GroteTrap.Range
-                    Language.GroteTrap.Trees
                     Language.GroteTrap.Language
                     Language.GroteTrap.Lexer
-                    Language.GroteTrap.Unparse
+                    Language.GroteTrap.Range
+                    Language.GroteTrap.Show
                     Language.GroteTrap.ShowTree
+                    Language.GroteTrap.Trees
+                    Language.GroteTrap.Unparse
                     Language.GroteTrap.Util
   Other-Modules:    Language.GroteTrap.ParseTree
                     Language.GroteTrap.Parser
