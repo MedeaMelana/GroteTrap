@@ -8,12 +8,16 @@ Author:         Jeroen Leeuwestein, Martijn van Steenbergen
 Maintainer:     martijn@van.steenbergen.nl
 Copyright:      Copyright (c) 2007-2008 Jeroen Leeuwestein and Martijn van Steenbergen
 
-Cabal-Version:  >= 1.2
+Cabal-Version:  >= 1.6
 License:        BSD3
 License-file:   LICENSE
 Category:       Language
 Build-type:     Simple
 Extra-source-files: LogicExample.hs, ArithmeticExample.hs
+
+Source-Repository head
+  Type:         git
+  Location:     https://github.com/MedeaMelana/GroteTrap
 
 Library
   Build-Depends:    base < 5,
